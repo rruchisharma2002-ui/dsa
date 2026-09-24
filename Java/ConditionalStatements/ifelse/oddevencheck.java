@@ -1,4 +1,3 @@
-package Java.ConditionalStatements.ifelse;
 import java.util.Scanner;
 public class oddevencheck {
     public static void main(String[] args){

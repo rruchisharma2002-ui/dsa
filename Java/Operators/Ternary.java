@@ -8,3 +8,4 @@ public class Ternary {
         System.out.println(result);
     }
 }
+//variable = (condition) ? value if true : value if false

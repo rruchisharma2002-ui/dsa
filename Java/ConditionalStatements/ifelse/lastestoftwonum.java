@@ -1,4 +1,3 @@
-package Java.ConditionalStatements.ifelse;
 
 public class lastestoftwonum {
 
